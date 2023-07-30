@@ -1,4 +1,5 @@
 /* --------------------
+   Link to original challenge - https://8weeksqlchallenge.com/case-study-1/
    Case Study Questions
    --------------------*/
 
